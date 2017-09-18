@@ -1,0 +1,1 @@
+document.getElementById("content").style.backgroundColor = "rgb(100, 100, 100)";

@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "youtube-dark",
-	"version": 1.0,
+	"version": "1.0",
 
 	"description": "Changes the background color on all webpages matching youtube.com to a medium gray.",
 	"homepage_url": "http://github.com/acoomes/youtube-dark",
